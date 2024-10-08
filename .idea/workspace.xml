@@ -1,75 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb50122-6ccd-4945-9dbf-7192ad77add6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseExercise/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseExercise/Test7_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_study/H1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_study/H2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_study/H3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_study/H4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wwang/HelloWorld/HelloWorldApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wwang/HelloWorld/Ranset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wwang/HelloWorld/arry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/anli1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/anli2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/anli3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/anli2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldApp/HelloWorldApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldApp/src/com/wwangxu/hello/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldApp/src/com/wwangxu/hello/Ranset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldApp/src/com/wwangxu/hello/arry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/case-exercise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/Test7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/Test7_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test7_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/itheima/Test8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/method_study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/define/demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/define/demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/define/demo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/method_cases/cases_demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/method_cases/cases_demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/method_cases/cases_demo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/method_cases/cases_demo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/practice/H1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/practice/H2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/practice/H3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/practice/H4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/method_study/src/com/wwangxu/practice/H5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/com/wwangxu/test/S1_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/com/wwangxu/test/anli1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/com/wwangxu/test/anli2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/com/wwangxu/test/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/wwangxu/test/S1_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/wwangxu/test/anli1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/wwangxu/test/anli2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/wwangxu/test/anli3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/wwangxu/test/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/src/com/wwangxu/study/anli2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/com/wwangxu/test/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/wwangxu/test/test.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaHomework2/S2_4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test1/anli2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test1/anli2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +34,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2maNGVOp5bH9ayVEioeFgkBzOTf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -100,14 +56,15 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="应用程序.anli2 (1)">
-    <configuration name="H3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_study.H3" />
+  <component name="RunManager" selected="应用程序.S2_4_1">
+    <configuration name="S2_2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaHomework2.S2_2_4" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method_study.*" />
+          <option name="PATTERN" value="JavaHomework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_study.H4" />
+    <configuration name="S2_3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaHomework2.S2_3_1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method_study.*" />
+          <option name="PATTERN" value="JavaHomework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anli1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.anli1" />
+    <configuration name="S2_3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaHomework2.S2_3_2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="JavaHomework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anli2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1.anli2" />
+    <configuration name="S2_3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaHomework2.S2_3_3" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test1.*" />
+          <option name="PATTERN" value="JavaHomework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anli2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.anli2" />
+    <configuration name="S2_4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaHomework2.S2_4_1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="JavaHomework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.anli2 (1)" />
-        <item itemvalue="应用程序.anli2" />
-        <item itemvalue="应用程序.anli1" />
-        <item itemvalue="应用程序.H4" />
-        <item itemvalue="应用程序.H3" />
+        <item itemvalue="应用程序.S2_4_1" />
+        <item itemvalue="应用程序.S2_3_3" />
+        <item itemvalue="应用程序.S2_3_1" />
+        <item itemvalue="应用程序.S2_3_2" />
+        <item itemvalue="应用程序.S2_2_4" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +156,8 @@
       <workItem from="1727310633072" duration="2492000" />
       <workItem from="1727314501644" duration="11000" />
       <workItem from="1727314544879" duration="919000" />
+      <workItem from="1728348493674" duration="2605000" />
+      <workItem from="1728388207082" duration="8448000" />
     </task>
     <servers />
   </component>
