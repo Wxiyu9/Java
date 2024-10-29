@@ -3,8 +3,8 @@ package JavaHomework3;
 public class S3_1 {
     public static void main(String[] args)
     {
-        Book b1 = new Book("ISBN123456789","Java Programming","John Doe",2024);
-        Book b2 = new Book("ISBN987654321","Data Structures","Jane Smith",2023);
+        JavaHomework3.Book b1 = new JavaHomework3.Book("ISBN123456789","Java Programming","John Doe",2024);
+        JavaHomework3.Book b2 = new JavaHomework3.Book("ISBN987654321","Data Structures","Jane Smith",2023);
         b1.showBookNo();
         b1.showBookTitle();
         b1.showAuthor();

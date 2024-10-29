@@ -1,6 +1,6 @@
 package JavaHomework3;
 
-public class TestMonkeyAssistant {
+public class S3_2 {
     public static void main(String[] args)
     {
         MonkeyAssistant assistant1 = new MonkeyAssistant();

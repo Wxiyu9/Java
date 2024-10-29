@@ -1,6 +1,6 @@
 package JavaHomework3;
 
-public class TestEmployee {
+public class S3_3 {
     public static void main(String[] args)
     {
         Employee e1 = new Employee();
