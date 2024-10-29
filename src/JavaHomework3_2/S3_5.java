@@ -1,4 +1,4 @@
-package JavaHomework3;
+package JavaHomework3_2;
 
 public class S3_5 {
     public static void main(String[] args) {
